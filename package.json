@@ -1,3 +1,5 @@
+/* define dependencies */
+
 {
   "name": "expresshogan",
   "version": "0.0.0",
@@ -16,3 +18,11 @@
     "less-middleware": "1.0.x"
   }
 }
+
+/* make sure to:
+
+ npm install 
+
+
+
+ */
