@@ -22,6 +22,13 @@ router.get('/home', function(req, res) {
 });
 
 
+/*
+// may work.... need to call function
+setTimeout(function () {
+  console.log('This will still run.');
+}, 500);*/
+
+
 
 
 
